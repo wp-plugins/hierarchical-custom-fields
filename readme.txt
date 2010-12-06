@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: cjsand
+Contributors: csand10045
 Donate link: http://www.cjsand.com
 Tags: Hierarchical, Chain Select, Secondary Category
 Requires at least: 2.0.2
