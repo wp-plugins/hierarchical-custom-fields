@@ -12,15 +12,8 @@ This plugin will allow a user to add/edit/delete parent and child custom fields 
 
 This plugin will allow a user to add/edit/delete parent and child custom fields within a hierarchical structure.
 
-A few notes about the sections above:
-
-*   "Contributors" is a comma separated list of wp.org/wp-plugins.org usernames
-*   "Tags" is a comma separated list of tags that apply to the plugin
-*   "Requires at least" is the lowest version that the plugin will work on
-*   "Tested up to" is the highest version that you've *successfully used to test the plugin*. Note that it might work on
-higher versions... this is just the highest one you've verified.
-*   Stable tag should indicate the Subversion "tag" of the latest stable version, or "trunk," if you use `/trunk/` for
-stable.
+For example, if each post referred to a type of grant sponsor- you would have the ability to enter different
+primary sponsors and then enter and select sub-sponsors within the parent organization.
 
 == Installation ==
 
@@ -34,6 +27,8 @@ stable.
 www.cjsand.com
 
 == Screenshots ==
+
+No screenshots currently available.
 
 == Changelog ==
 
